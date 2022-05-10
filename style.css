@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+@media screen and (max-width: 480px){
+    #body{
+        height: auto;
+    }
+    #body{
+        width: auto;
+    } 
+}
+
+.logotipo{
+    color: purple;
+    
+}
+.body{
+    color: rgb(0, 13, 255);
+    background-color: rgb(243, 219, 209);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.script {
+    display: flex;
+    
+    max-width: 100%;
+    height: auto;
+    
+}
+.container2{
+    background-color: rgb(247, 223, 214);
+    display: flex;
+    flex-direction: row;
+    margin: 40px;
+    align-self: flex-end;
+    height: 70px;
+    align-items: center;
+    justify-content: right;
+    margin-left: 40px;
+    margin-right: 15px;
+    width: 1200px;
+    
+    }
+    .uno{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 30px;
+        border-radius: 15px;
+        background-color: rgb(244, 204, 204);
+        height: 60px;
+        width: 330px;
+        color: violet;
+        font-weight: 300px;
+	font-size: 30px;
+    }
+    .dos{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 30px;
+        border-radius: 15px;
+        background-color: rgb(244, 204, 204);
+        height: 60px;
+        width: 330px;
+        color: violet;
+        font-weight: 300px;
+	font-size: 30px;
+    }
+    .tres{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 30px;
+        border-radius: 15px;
+        background-color: rgb(244, 204, 204);
+        height: 60px;
+        width: 330px;
+        color: violet;
+        font-weight: 300px;
+	font-size: 30px;
+    }
+   
+  
+    header{
+        background-color: rgb(243, 203, 184);
+        margin-top: 1px;
+        margin-left: 40px;
+        margin-right: 40px;
+        margin-bottom: 40px;
+        width: 1000px;
+        height: 800px;
+    }
+    
